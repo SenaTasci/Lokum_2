@@ -7,6 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+          Selam, Tobiyle öğrenmeye hoşgeldin.
+        </p>
+        <p>
           Git ve github öğreniyorum w/tofi
         </p>
         <a
